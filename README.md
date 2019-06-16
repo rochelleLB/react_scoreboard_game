@@ -1,5 +1,5 @@
-# react_scoreboard_game
-A scoreboard game designed with React. Thanks, Team Treehouse for the tutorial.
+# React Scoreboard Game
+A scoreboard game designed with React. Thanks Team Treehouse for the tutorial.
 
 ## Project Status
 In progress! 
